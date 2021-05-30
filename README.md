@@ -1,3 +1,3 @@
 # Restaurant
-For the GUI, run Restaurant GUI. 
-For the console, run TestMain
+For the GUI version, run Restaurant GUI. 
+For the console version, run TestMain
